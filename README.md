@@ -2,7 +2,6 @@
 <ul>
     <li>create read update and delete postes</li>
     <li>Uploading image's path into database and saving the  images into a folder with a unique id</li>
-    <li></li>
 </ul>
 <p>
     <i>

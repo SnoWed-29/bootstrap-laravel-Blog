@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+.crdimg{
+    height: 210px;
+    object-fit: fill;
+    margin-right: 3px;
+}
+.crdimg2{
+    margin: auto;
+    width: 500px;
+}
